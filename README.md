@@ -1,16 +1,21 @@
-## Hi there 👋
+## Aspiring Software Engineer 
 
-<!--
-**arjfc/arjfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stack
+- JavaScript
+- TypeScript
+- React
+- React Native
+- PostgreSQL
+- Supabase
+- PL/pgSQL
+- MongoDB
+- Git
+- Vite
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- Re-exploring software engineering fundamentals to strengthen core programming and system design skills.
+- Expanding my knowledge in data analytics through SQL, Python, Power BI, and real-world projects.
+  
+### Connect with Me
+- LinkedIn: https://linkedin.com/in/francesclarisseabucejo
+- Email: abucejofrancesc03@gmail.com
